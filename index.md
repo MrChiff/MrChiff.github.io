@@ -4,7 +4,8 @@
 
  
 
- <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="512"><img>
+ <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="512"></img>
+ <img src="./images/llama_pics/678625_space llama doing math _xl-1024-v1-0.png" width="512"></img>
 
  # Llama Man Projects
  Here is a list of tasks I am working on for Llama Man 
@@ -20,6 +21,7 @@
  </ul>
 
  # My Blog
+
  <ul>
  {% for post in site.posts %}
  <li>
