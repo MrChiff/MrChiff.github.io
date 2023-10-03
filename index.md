@@ -2,6 +2,8 @@
 
  Authors: mrchiff and brenda7704
 
+ 
+
  <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="512"><img>
 
  # Llama Man Projects
@@ -15,4 +17,13 @@
 
  <ul>
  <li><a href="https://github.com/beachb7704/CTS285/tree/main/Project1/">Llama Man Project</a></li>
+ </ul>
+
+ # My Blog
+ <ul>
+ {% for post in site.posts %}
+ <li>
+ <a href="{{ post.url }}">{{ post.title }}</a>
+ </li>
+ {% endfor %}
  </ul>
