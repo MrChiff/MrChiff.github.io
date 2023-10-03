@@ -1,5 +1,4 @@
 
- # LLAMA MAN 
 
  Authors: mrchiff and brenda7704
 
@@ -13,3 +12,7 @@
  Llama Logic    (arms/mid-end)
  Feature Logic  (core/back-end)
  Database       (legs/data storage)
+
+ <ul>
+ <li><a href="https://github.com/beachb7704/CTS285/tree/main/Project1/">Llama Man Project</a></li>
+ </ul>
