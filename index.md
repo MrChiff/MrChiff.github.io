@@ -4,9 +4,14 @@
  Authors: mrchiff and brenda7704
 
  
-
- <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="512"><img>
- <img src="./images/llama_pics/678625_space llama doing math _xl-1024-v1-0.png" width="512"><img>
+<div class="row">
+    <div class="columns">
+        <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="512"><img>
+    </div>
+    <div class="column">
+        <img src="./images/llama_pics/678625_space llama doing math _xl-1024-v1-0.png" width="512"><img>
+    </div>
+</div>
 
  <h1>Llama Man Projects</h1>
  Here is a list of tasks I am working on for Llama Man 
