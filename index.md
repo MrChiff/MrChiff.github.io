@@ -1,4 +1,7 @@
 
+layout: page
+title: "Llama Man"
+permalink: /mrchiff.github.io
 
  Authors: mrchiff and brenda7704
 
