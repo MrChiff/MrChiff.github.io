@@ -9,7 +9,7 @@
 
 # Luna's Story:
 
-<div style= "float:right;position: relative; left: 10px;">
+<div style= "float:right;position: relative; left: 5px;">
     <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="200"/>
 </div>
 
@@ -23,7 +23,7 @@ Llamatopia was a beautiful world filled with rolling green hills and vibrant for
 
 Luna, being the determined and resourceful llama that she was, decided to build a spaceship powered by the magic of mathematics. She started by designing the most advanced and intelligent computer known to llama-kind, which she affectionately named "Mathmaticus."
 
-<div style= "float:right;position: relative; right: 10px;">
+<div style= "float:right;position: relative; left: 10px;">
     <img src="./images\llama_pics\413570_Mathmaticus_ll_xl-1024-v1-0.png" width="200"/>
 </div>
 
