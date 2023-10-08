@@ -1,4 +1,4 @@
-# CTS 285 Project 1 - Llama Man
+# CTS 285 Project 1 - Llama Woman
 ## Luna the Llama: The Mathematical Saviour of Llamatopia.
 ### Authors: mrchiff and brenda7704
 
@@ -7,13 +7,10 @@
   <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="512" /> 
 </p>
 
-
-
-
-![llama_man_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
+![llama_woman_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_woman_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
 # Luna's Story:
-Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
+Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  ![llama_woman_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
 Llamatopia was a beautiful world filled with rolling green hills and vibrant forests. However, it faced a dire threat from a massive asteroid hurtling toward it. Luna knew that the only way to save her beloved planet was through mathematics.
 
@@ -30,13 +27,13 @@ Luna's incredible mathematical skills had saved Llamatopia from destruction. She
 And so, the story of Luna, the llama who used math to save her planet from an asteroid, became a legend in Llamatopia, reminding everyone of the power of knowledge, determination, and the incredible potential of llamas in space.
 
 
- # Llama Man Projects
+ # Llama Woman Projects
  Here is a list of tasks I am working on for Llama Man 
 
- <h1>Parts of Llama Man</h1>
+ <h1>Parts of Llama Woman</h1>
  - Webpage        (head/front-end)
  - Llama Logic    (arms/mid-end)
  - Feature Logic  (core/back-end)
  - Database       (legs/data storage)
 
- [The Llama Man Project Repository is here.](https://github.com/beachb7704/CTS285/tree/main/Project1/)
+ [The Llama Woman Project Repository is here.](https://github.com/beachb7704/CTS285/tree/main/Project1/)
