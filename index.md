@@ -19,7 +19,7 @@ Luna, being the determined and resourceful llama that she was, decided to build 
 
 With Mathmaticus by her side, Luna embarked on her epic journey into space. She knew that to alter the asteroid's trajectory, she would need to calculate the perfect angle and force to intercept it. Luna spent days, weeks, and even months crunching numbers, solving equations, and simulating different scenarios. She used calculus to predict the asteroid's path and algebra to determine the best course of action. 
 
-<div style= "float:left;position: relative; left: 10px;">
+<div style= "float:left;position: relative; left: -10px;">
     <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="300"/>
 </div>
 
