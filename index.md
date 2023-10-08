@@ -8,7 +8,7 @@
 </p>
 
 # Luna's Story:
-<div style= "float:right;position: relative">
+<div style= "float:right;position: relative; left: -80px;">
     <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="300"/>
 </div>
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  
@@ -19,7 +19,7 @@ Luna, being the determined and resourceful llama that she was, decided to build 
 
 With Mathmaticus by her side, Luna embarked on her epic journey into space. She knew that to alter the asteroid's trajectory, she would need to calculate the perfect angle and force to intercept it. Luna spent days, weeks, and even months crunching numbers, solving equations, and simulating different scenarios. She used calculus to predict the asteroid's path and algebra to determine the best course of action. 
 
-<img align="left" width="300" right="-80 px" src="images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png">
+<img align="left" width="300" src="images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png">
 
 As Luna and Mathmaticus approached the asteroid, Luna used her newfound knowledge of trigonometry to calculate the precise angle and velocity needed to intercept it. With bated breath, she executed the maneuver. The spaceship hurtled toward the asteroid, and at the last moment, Luna deployed a set of specially designed mathematical thrusters, which changed the asteroid's trajectory ever so slightly.
 
