@@ -40,9 +40,14 @@ The tension was palpable as Luna and Mathmaticus watched their calculations come
 Luna's incredible mathematical skills had saved Llamatopia from destruction. She returned to her home planet, celebrated as a hero, and continued to explore the wonders of mathematics, using her knowledge to improve the lives of all llamas.
 
 And so, the story of Luna, the llama who used math to save her planet from an asteroid, became a legend in Llamatopia, reminding everyone of the power of knowledge, determination, and the incredible potential of llamas in space.
+
+# Llama Woman Features
+1. Answer Checker
+2. Memory Bank
+3. Flash Cards
  
 
-### List of Llama Woman
+### List of Llama Woman Sections
  - Webpage        (head/front-end)
  - Llama Logic    (arms/mid-end)
  - Feature Logic  (core/back-end)
