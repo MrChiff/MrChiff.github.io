@@ -3,8 +3,8 @@
 ### Authors: mrchiff and brenda7704
 
 <p float="left">
-  <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="256" />
-  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="256" /> 
+  <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="512" />
+  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="512" /> 
 </p>
 
 
@@ -12,8 +12,8 @@
 
 ![llama_man_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
-# My Story:
-Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.
+# Luna's Story:
+Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
 Llamatopia was a beautiful world filled with rolling green hills and vibrant forests. However, it faced a dire threat from a massive asteroid hurtling toward it. Luna knew that the only way to save her beloved planet was through mathematics.
 
