@@ -1,6 +1,6 @@
 # CTS 285 Project 1 - Llama Woman
 ## Luna the Llama: The Mathematical Saviour of Llamatopia.
-### Authors: mrchiff and brenda7704
+#### Authors: mrchiff and brenda7704
 
 <p float="left">
   <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="400" />
@@ -39,7 +39,7 @@ Luna's incredible mathematical skills had saved Llamatopia from destruction. She
 And so, the story of Luna, the llama who used math to save her planet from an asteroid, became a legend in Llamatopia, reminding everyone of the power of knowledge, determination, and the incredible potential of llamas in space.
  
 
-# List of Llama Woman
+### List of Llama Woman
  - Webpage        (head/front-end)
  - Llama Logic    (arms/mid-end)
  - Feature Logic  (core/back-end)
