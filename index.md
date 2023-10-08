@@ -12,7 +12,7 @@
 </div>
 
 <p float="left">
-  <img src="./images/llama_pics/678625_space_llama_doing math_xl-1024-v1-0.png" width="100" />
+  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="100" />
   <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="100" /> 
 </p>
 
