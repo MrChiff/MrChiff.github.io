@@ -9,8 +9,8 @@
 
 # Luna's Story:
 
-<div style= "float:right;position: relative; left: 5px;">
-    <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="200"/>
+<div style= "float:right;position: relative; left: 10px;">
+    <img src="./images/images\llama_pics\326842_Mathmaticus_the_most_advanced_computer_known_to_ll_xl-1024-v1-0.png" width="200"/>
 </div>
 
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  
@@ -38,8 +38,7 @@ Luna's incredible mathematical skills had saved Llamatopia from destruction. She
 And so, the story of Luna, the llama who used math to save her planet from an asteroid, became a legend in Llamatopia, reminding everyone of the power of knowledge, determination, and the incredible potential of llamas in space.
  
 
- # List of Llama Woman
- 
+ List of Llama Woman
  - Webpage        (head/front-end)
  - Llama Logic    (arms/mid-end)
  - Feature Logic  (core/back-end)
