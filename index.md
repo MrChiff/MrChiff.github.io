@@ -8,19 +8,8 @@
 </p>
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-:-------------------------:|:-------------------------:
+
+
 ![llama_man_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
 # My Story:
