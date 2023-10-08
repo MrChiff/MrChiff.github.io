@@ -5,9 +5,9 @@
 #### Authors: mrchiff and brenda7704
 
 <p float="left">
-  <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="400" />
-  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="400" /> 
-  <img src="./images\llama_pics\326843_Mathmaticus_the_most_advanced_computer_known_to_ll_xl-1024-v1-0.png" width="400" /> 
+  <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="300" />
+  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="300" /> 
+  <img src="./images\llama_pics\326843_Mathmaticus_the_most_advanced_computer_known_to_ll_xl-1024-v1-0.png" width="300" /> 
 </p>
 
 # Luna's Story:
