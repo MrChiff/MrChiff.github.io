@@ -8,6 +8,7 @@
 </p>
 
 # Luna's Story:
+![](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  <img float="right" src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="100" />
 
 Llamatopia was a beautiful world filled with rolling green hills and vibrant forests. However, it faced a dire threat from a massive asteroid hurtling toward it. Luna knew that the only way to save her beloved planet was through mathematics.
