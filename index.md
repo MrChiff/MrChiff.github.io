@@ -4,21 +4,26 @@
 
 <div class="row">
     <div class="column">
-        <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="128"><img>
+        <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="128"><img>
     </div>
     <div class="column">
-        <img src="./images/llama_pics/678625_space llama doing math _xl-1024-v1-0.png" width="128"><img>
+        <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="128"><img>
     </div>
 </div>
 
-new pictures should be here
+<p float="left">
+  <img src="./images/llama_pics/678625_space_llama_doing math_xl-1024-v1-0.png" width="100" />
+  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="100" /> 
+</p>
+
+### new pictures should be here
 
 
 ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Alt text](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![Alt text](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
+![llama_man_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
 # My Story:
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.
