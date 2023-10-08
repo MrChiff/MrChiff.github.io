@@ -8,7 +8,9 @@
 </p>
 
 # Luna's Story:
-![](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png){:style="float: right;margin-right: 7px;margin-top: 7px;" width=300}
+<div style= "float:right;position: relative; top: -80px;">
+    <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="300" />
+</div>
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  <img float="right" src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="100" />
 
 Llamatopia was a beautiful world filled with rolling green hills and vibrant forests. However, it faced a dire threat from a massive asteroid hurtling toward it. Luna knew that the only way to save her beloved planet was through mathematics.
@@ -24,12 +26,9 @@ The tension was palpable as Luna and Mathmaticus watched their calculations come
 Luna's incredible mathematical skills had saved Llamatopia from destruction. She returned to her home planet, celebrated as a hero, and continued to explore the wonders of mathematics, using her knowledge to improve the lives of all llamas.
 
 And so, the story of Luna, the llama who used math to save her planet from an asteroid, became a legend in Llamatopia, reminding everyone of the power of knowledge, determination, and the incredible potential of llamas in space.
+ 
 
-
- # Llama Woman Projects
- Here is a list of tasks I am working on for Llama Man 
-
- <h1>Parts of Llama Woman</h1>
+ # Parts of Llama Woman
  - Webpage        (head/front-end)
  - Llama Logic    (arms/mid-end)
  - Feature Logic  (core/back-end)
