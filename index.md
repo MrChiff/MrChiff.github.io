@@ -3,16 +3,13 @@
 ### Authors: mrchiff and brenda7704
 
 <div class="row">
-    <div class="columns">
+    <div class="column">
         <img src="./images/llama_pics/678624_space llama doing math _xl-1024-v1-0.png" width="512"><img>
     </div>
-    <div class="columns">
+    <div class="column">
         <img src="./images/llama_pics/678625_space llama doing math _xl-1024-v1-0.png" width="512"><img>
     </div>
 </div>
-
-
-
 
 # My Story:
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.
