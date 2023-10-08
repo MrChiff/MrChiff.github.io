@@ -16,12 +16,8 @@
   <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="100" /> 
 </p>
 
-### new pictures should be here
 
 
-![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
-
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![llama_man_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_man_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
 
