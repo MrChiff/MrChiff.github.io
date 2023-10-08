@@ -1,5 +1,5 @@
-# CTS 285 Project 1 - Llama Woman
----------------------------------
+<!---# CTS 285 Project 1 - Llama Woman--->
+<!--------------------------------->
 ## Luna the Llama: The Mathematical Saviour of Llamatopia.
 ----------------------------------------------------------
 ### Authors: mrchiff and brenda7704
