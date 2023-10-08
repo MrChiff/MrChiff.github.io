@@ -38,7 +38,8 @@ Luna's incredible mathematical skills had saved Llamatopia from destruction. She
 And so, the story of Luna, the llama who used math to save her planet from an asteroid, became a legend in Llamatopia, reminding everyone of the power of knowledge, determination, and the incredible potential of llamas in space.
  
 
- # Parts of Llama Woman
+ # List of Llama Woman
+ 
  - Webpage        (head/front-end)
  - Llama Logic    (arms/mid-end)
  - Feature Logic  (core/back-end)
