@@ -1,5 +1,7 @@
 # CTS 285 Project 1 - Llama Woman
+=================================
 ## Luna the Llama: The Mathematical Saviour of Llamatopia.
+----------------------------------------------------------
 #### Authors: mrchiff and brenda7704
 
 <p float="left">
@@ -9,7 +11,7 @@
 </p>
 
 # Luna's Story:
-
+===============
 <div style= "float:right;position: relative; left: 10px;">
     <img src="./images\llama_pics\326842_Mathmaticus_ll_xl-1024-v1-0.png" width="200"/>
 </div>
