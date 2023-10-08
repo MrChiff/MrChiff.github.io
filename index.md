@@ -8,7 +8,7 @@
 </p>
 
 # Luna's Story:
-<div style= "float:right;position: relative; left: -80px;">
+<div style= "float:right;position: relative; left: 80px;">
     <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="300"/>
 </div>
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  
