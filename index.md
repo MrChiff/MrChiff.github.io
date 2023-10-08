@@ -2,7 +2,7 @@
 ---------------------------------
 ## Luna the Llama: The Mathematical Saviour of Llamatopia.
 ----------------------------------------------------------
-#### Authors: mrchiff and brenda7704
+### Authors: mrchiff and brenda7704
 
 <p float="left">
   <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="300" />
