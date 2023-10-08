@@ -7,7 +7,7 @@
   <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="512" /> 
 </p>
 
-![llama_woman_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_woman_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
+[//]: # (![llama_woman_1](images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png)   |  ![llama_woman_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png))
 
 # Luna's Story:
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  ![llama_woman_2](images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png)
