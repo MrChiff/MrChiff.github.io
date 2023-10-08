@@ -1,10 +1,6 @@
 # CTS 285 Project 1 - Llama Man
-
 ## Luna the Llama: The Mathematical Saviour of Llamatopia.
-
-
-
- Authors: mrchiff and brenda7704
+### Authors: mrchiff and brenda7704
 
 <div class="row">
     <div class="columns">
@@ -17,7 +13,7 @@
 
 
 # My Story:
-   Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.
+Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.
 
 Llamatopia was a beautiful world filled with rolling green hills and vibrant forests. However, it faced a dire threat from a massive asteroid hurtling toward it. Luna knew that the only way to save her beloved planet was through mathematics.
 
@@ -43,9 +39,7 @@ And so, the story of Luna, the llama who used math to save her planet from an as
  - Feature Logic  (core/back-end)
  - Database       (legs/data storage)
 
- <ul>
- <li><a href="https://github.com/beachb7704/CTS285/tree/main/Project1/">Llama Man Project</a></li>
- </ul>
+ [The Llama Man Project Repository is here.](https://github.com/beachb7704/CTS285/tree/main/Project1/)
 
  # My Blog
 
