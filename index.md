@@ -10,7 +10,7 @@
 # Luna's Story:
 
 <div style= "float:right;position: relative; left: 10px;">
-    <img src="./images/images\llama_pics\326842_Mathmaticus_the_most_advanced_computer_known_to_ll_xl-1024-v1-0.png" width="200"/>
+    <img src="./images\llama_pics\326842_Mathmaticus_ll_xl-1024-v1-0.png" width="200"/>
 </div>
 
 Once upon a time, in a distant future, there lived a brilliant llama named Luna. Luna wasn't your ordinary llama; she had a deep fascination with mathematics and a burning desire to save her planet, Llamatopia, from an impending disaster.  
