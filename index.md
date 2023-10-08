@@ -3,8 +3,8 @@
 ### Authors: mrchiff and brenda7704
 
 <p float="left">
-  <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="300" />
-  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="300" /> 
+  <img src="./images/llama_pics/678624_space_llama_doing_math_xl-1024-v1-0.png" width="400" />
+  <img src="./images/llama_pics/678625_space_llama_doing_math_xl-1024-v1-0.png" width="400" /> 
 </p>
 
 # Luna's Story:
