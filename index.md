@@ -40,13 +40,3 @@ And so, the story of Luna, the llama who used math to save her planet from an as
  - Database       (legs/data storage)
 
  [The Llama Man Project Repository is here.](https://github.com/beachb7704/CTS285/tree/main/Project1/)
-
- # My Blog
-
- <ul>
- {% for post in site.posts %}
- <li>
- <a href="{{ post.url }}">{{ post.title }}</a>
- </li>
- {% endfor %}
- </ul>
